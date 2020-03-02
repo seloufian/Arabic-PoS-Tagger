@@ -1,0 +1,19 @@
+<BASE_DE_DONNEE>	<Phrase_0>
+		<Num_phrase>0</Num_phrase>
+		<Text>Salam
+</Text>
+		<Tokenisation>ألقى ال أستاذ ال درس .</Tokenisation>
+		<POS_Tag>NULL فعل_م DEF فاعل DEF مفعول_به PUNC</POS_Tag>
+		<Nb_Mot>5</Nb_Mot>
+		<Nb_Token>6</Nb_Token>
+	</Phrase_0>
+	<Phrase_1>
+		<Num_phrase>1</Num_phrase>
+		<Text>سارع إلى إطفاء الحريق.
+</Text>
+		<Tokenisation>سارع إلى إطفاء ال حريق .</Tokenisation>
+		<POS_Tag>NULL فعل_ماضي حرف_جر اسم_مجرور DEF مضاف_إليه PUNC</POS_Tag>
+		<Nb_Mot>6</Nb_Mot>
+		<Nb_Token>6</Nb_Token>
+	</Phrase_1>
+</BASE_DE_DONNEE>
