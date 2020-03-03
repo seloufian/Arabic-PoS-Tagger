@@ -142,14 +142,14 @@ Once the text is annotated, the corresponding tab is activated. As for the entry
 
 ## Application use
 
-To run this application, make sure that all required the packages are already installed. Then, it can be launched via the entry point:
+To run this application, make sure that all required packages are already installed. Then, it can be launched via the entry point:
 
 ```text
 $ python3 src/__main__.py
 ```
 
-To test all the functionalities of this application, example files are available in ``./examples/``.
+To test all functionalities of this application, example files are available in ``./examples/``.
 
 ## License
 
-This application uses other projects made by third parties. This project is distributed under the ``MIT`` license. For more details, see the ``LICENSE.md`` file.
+This application uses other projects made by third parties. This project is distributed under the ``MIT`` license. For more details, see the [``LICENSE.md``](https://github.com/seloufian/Arabic-PoS-Tagger/blob/master/LICENSE.md) file.
